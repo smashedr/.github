@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "💬 Join Discord"
+    about: Chat with us about Issues, Features, Questions and More.
+    url: https://discord.gg/wXy6m2X8wY
+
+  - name: "📝 Submit Feedback"
+    about: Send General Feedback.
+    url: https://cssnr.github.io/feedback
