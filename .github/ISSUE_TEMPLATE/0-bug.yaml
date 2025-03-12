@@ -5,11 +5,6 @@ assignees:
   - smashedr
 
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Any issues or bugs that can be verified will be fixed!
-
   - type: input
     id: website
     validations:
