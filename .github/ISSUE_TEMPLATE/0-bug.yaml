@@ -5,6 +5,11 @@ assignees:
   - smashedr
 
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Any issues or bugs that can be verified will be fixed!
+
   - type: input
     id: website
     validations:
@@ -29,9 +34,11 @@ body:
     attributes:
       label: Log Output
       description: Paste any relevant logs or output in this box.
+      placeholder: This text is automatically wrapped in a code block.
       render: shell
 
   - type: markdown
     attributes:
       value: |
-        All issues/bugs that we can verify will be fixed. Thank you for taking the time to make this report!
+        Any issues or bugs that can be verified will be fixed!
+        Thank you very much for taking the time to make this report...
