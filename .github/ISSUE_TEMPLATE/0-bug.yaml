@@ -1,5 +1,5 @@
 name: "⚠️ Report an Issue"
-description: "Something Not Working Right? Please let us know..."
+description: "Please let us know if something is not working right..."
 labels: ["bug"]
 assignees:
   - smashedr
@@ -10,7 +10,7 @@ body:
     validations:
       required: false
     attributes:
-      label: Relevant Link
+      label: URL
       description: Please provide a link to the site or repository in question if possible.
 
   - type: textarea
@@ -18,7 +18,7 @@ body:
     validations:
       required: true
     attributes:
-      label: Details
+      label: Issue Description
       description: Please describe the issue you are experiencing and how it can be reproduced.
       placeholder: Provide as many details as possible...
 
