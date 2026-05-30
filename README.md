@@ -1,3 +1,9 @@
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/smashedr/.github?logo=listenhub&label=updated)](https://github.com/smashedr/.github/pulse)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/smashedr/.github?logo=buffer&label=repo%20size)](https://github.com/smashedr/.github?tab=readme-ov-file#readme)
+[![GitHub Org Stars](https://img.shields.io/github/stars/cssnr?style=flat&logo=apachespark&logoColor=white&label=org%20stars)](https://cssnr.github.io/)
+[![Discord](https://img.shields.io/discord/899171661457293343?logo=discord&logoColor=white&label=discord&color=7289da)](https://discord.gg/wXy6m2X8wY)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-72a5f2?logo=kofi&label=support)](https://ko-fi.com/cssnr)
+
 # GitHub
 
 Default Community Health Files.

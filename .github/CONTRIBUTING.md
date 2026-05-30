@@ -27,9 +27,11 @@ You can run a `push` trigger Test in your own repository by enabling workflows o
 If the only secret used is `secrets.GITHUB_TOKEN` that is automatically generated and requires no action.
 Other secrets needed to be manually added to the GitHub Secrets in the Repository Settings.
 
----
+# Support
 
-[SUPPORT](https://github.com/cssnr/.github/blob/master/.github/SUPPORT.md#support) |
-[CONTRIBUTING](https://github.com/cssnr/.github/blob/master/.github/CONTRIBUTING.md#contributing) |
-[Website](https://cssnr.github.io/) |
-[GitHub](https://github.com/cssnr)
+Please consider making a donation to support the development of this project
+and [additional](https://cssnr.com/) open source projects.
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/cssnr)
+
+For a full list of current projects visit: [https://cssnr.github.io/](https://cssnr.github.io/)

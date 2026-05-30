@@ -2,7 +2,6 @@
 
 - [Issues](#Issues)
 - [Discord](#Discord)
-- [Feedback](#Feedback)
 
 Please let us know if something is not working right or if you need help with a pull request.
 
@@ -21,17 +20,4 @@ You can also chat directly with us on **Discord**.
 
 - https://discord.gg/wXy6m2X8wY
 
-## Feedback
-
-You can submit general feedback through the website.
-
-- [https://cssnr.github.io/feedback/](https://cssnr.github.io/feedback)
-
 It is however recommended to create an [Issue](#Issues) or contact us on [Discord](#Discord).
-
----
-
-[SUPPORT](https://github.com/cssnr/.github/blob/master/.github/SUPPORT.md#support) |
-[CONTRIBUTING](https://github.com/cssnr/.github/blob/master/.github/CONTRIBUTING.md#contributing) |
-[Website](https://cssnr.github.io/) |
-[GitHub](https://github.com/cssnr)
